@@ -1,4 +1,4 @@
-#Esercizio cicli
+#Esercizio cicli 2
 
 x = 6
 while(x>0):
