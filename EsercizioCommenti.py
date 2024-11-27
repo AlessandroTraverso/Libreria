@@ -19,3 +19,4 @@ x = int(input("Inserisci un numero"))  #Prende in input un'intero nella variabil
 y = input("Come va?")  #Prende in input una stringa nella variabile y
 z = float(input("Inserisci un numero con la virgola"))  #Prende in input un float nella variabile z
 
+
